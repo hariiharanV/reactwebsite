@@ -1,0 +1,36 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+  background-color: whitesmoke;
+}
+
+.card{
+  min-width: 400px;
+  border-radius: 10px;
+  background-color: bisque;
+  border-color: black;
+  border-style: dotted;
+}
+
+select {
+  margin-left: 10px;
+}
+
+.number{
+  border-radius: 5px;
+}
+
+.equals {
+
+  margin-left:-70px;
+  font-size: 30px;
+  font-weight: bold;
+  color: seagreen;
+}
+
+span{
+  text-decoration: underline;
+  color:cadetblue;
+}
